@@ -1,0 +1,5 @@
+{
+  "name": "Advent-Of-Code-2024-Typescript",
+  "packageManager": "yarn@4.3.1",
+  "private": true
+}
